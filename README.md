@@ -4,12 +4,21 @@ This project applies **DenseNet201 with a custom multi-input pipeline** (histopa
 
 Using advanced training strategies (dropout, batch normalization, ELU activations, and learning rate scheduling), the model achieved:
 
-* **Accuracy**: 97.05%
-* **AUC**: 0.9942
-* **Precision**: 98.49%
-* **Recall**: 96.62%
-* **Validation Accuracy**: 93.18%
-* **Validation AUC**: 0.9520
+**Accuracy: 97.05%**
+
+**AUC: 0.9942**
+
+**Precision: 98.49%**
+
+**Recall: 96.62%**
+
+**Validation Accuracy: 93.18%**
+
+**Validation AUC: 0.9520**
+
+**Test Accuracy: 93.43%**
+
+**Test AUC: 0.9651**
 
 ---
 
